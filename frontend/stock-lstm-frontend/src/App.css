@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.result {
+  margin-top: 2rem;
+}
+.info {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
