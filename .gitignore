@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# React
+node_modules/
+build/
+dist/
+.DS_Store
+
+# macOS system file
+*.log
+
+# VSCode
+.vscode/
