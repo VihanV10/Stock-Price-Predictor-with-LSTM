@@ -26,6 +26,8 @@ To build an AI-powered system that:
 | Data Source   | Yahoo Finance (via `yfinance`)        |
 | Visualization | Matplotlib                            |
 
+> ⚙️ *Note: The current sentiment analysis uses TextBlob for simplicity, but it can be upgraded to use a Large Language Model (LLM) like OpenAI's GPT by replacing the sentiment function with an API call.*
+
 ---
 
 ## 🧩 Architecture
@@ -60,4 +62,6 @@ This hybrid feature input allows the model to learn not just numerical trends, b
 
 ---
 
-Sample Run:<img width="1470" alt="Screenshot 2025-05-17 at 8 15 58 PM" src="https://github.com/user-attachments/assets/2d0627dd-bd5e-4e5d-b070-bd7274229795" />
+## 🚀 Sample Output
+
+<img width="1470" alt="Screenshot 2025-05-17 at 8 15 58 PM" src="https://github.com/user-attachments/assets/2d0627dd-bd5e-4e5d-b070-bd7274229795" />
