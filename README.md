@@ -1,6 +1,6 @@
 # 📈 Stock Price Predictor with LSTM + Sentiment (Flask + React)
 
-This project is a full-stack web application that predicts the next-hour price of any publicly traded stock by combining historical stock data with real-time news sentiment. It uses a Long Short-Term Memory (LSTM) neural network and is powered by a Python Flask backend and a React frontend.
+This project is a full-stack web application that predicts the next-hour price of any publicly traded stock by combining historical stock data with real-time news sentiment. It uses a Long Short-Term Memory (LSTM) neural network and is powered by a Python Flask backend and a React(ts/js) frontend.
 
 ---
 
